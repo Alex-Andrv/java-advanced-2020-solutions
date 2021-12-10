@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 11.0.10 (AdoptOpenJDK)
+Main-Class: info.kgeorgiy.ja.Andreev.implementor.Implementor
+Class-Path: ../../../../../java-advanced-2021/artifacts/info.kgeorgiy.java.advanced.implementor.jar

@@ -1,0 +1,4 @@
+../../../java-advanced-2021
+D:/java-advanced-2021
+D:/java-advanced/java-solutions/scripts
+D:/java-advanced-2021/modules/info.kgeorgiy.java.advanced.implementor/info/kgeorgiy/java/advanced/implementor
